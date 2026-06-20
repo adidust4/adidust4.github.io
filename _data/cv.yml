@@ -1,50 +1,41 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: A'di Dust
+  label: PhD Candidate
+  email: dust@usc.edu
+  location: Los Angeles, CA
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: 
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: adidust4
     - network: LinkedIn
-      username: example
+      username: adi-dust
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+
+  # address:
+  #   street: 2712 Broadway St
+  #   city: San Francisco
+  #   region: California
+  #   postalCode: CA 94115
+  #   countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: University of Southern California
+        location: Los Angeles, CA
+        url: usc.edu
+        area: Computer Science
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        start_date: 2023
+        end_date: present
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Macalester College
+        location: St. Paul, MN
+        area: Computer Science, Statistics, and Sociology
+        studyType: BA
+        start_date: 2019
+        end_date: 2023
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
