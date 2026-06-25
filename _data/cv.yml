@@ -34,13 +34,6 @@ cv:
           - "Minors in Sociology and Statistics"
           - "Advisors: Prof. Abby Marsh and Prof. Joslenne Peña"
     Publications:
-      - title: "Signals in Play: Maternal Emotional State Modeled Using Conversational Dynamics and Affective Prosody"
-        authors:
-          - "*A'di Dust*"
-          - "Anura Deshpande"
-          - "Maja J. Matarić"
-          - "Pat Levitt"
-        journal: "Under review"
       - title: "Advanced Analysis of Behavioral Synchrony and Parasympathetic Response in Mother-Infant Play"
         authors:
           - "*A'di Dust*"
@@ -56,7 +49,8 @@ cv:
           - "*A'di Dust*"
           - "Maja Matarić"
           - "Pat Levitt"
-        journal: "Communications Biology (In press)"
+        date: "2026"
+        journal: "Communications Biology"
       - title: "Behind the Smile: Mental Health Implications of Mother-Infant Interactions Revealed Through Smile Analysis"
         authors:
           - "*A'di Dust*"
