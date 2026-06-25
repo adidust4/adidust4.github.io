@@ -6,6 +6,7 @@ nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/CV.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
+description: These are the highlights of my CV. Please see the pdf version to see the full document.
 toc:
   sidebar: left
 ---
