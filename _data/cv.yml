@@ -15,6 +15,7 @@ cv:
   sections:
     Education:
       - institution: "University of Southern California"
+        location: Los Angeles, CA
         area: "Computer Science"
         studyType: "PhD"
         start_date: 2023
@@ -23,6 +24,7 @@ cv:
           - "Collaborating Advisor: Prof. Pat Levitt"
           
       - institution: "Macalester College"
+        location: St Paul, MN
         area: "Computer Science"
         studyType: "BA"
         start_date: 2019
@@ -89,6 +91,7 @@ cv:
     Experience:
       - company: "University of Southern California Interaction Lab"
         position: "PhD Candidate"
+        location: Los Angeles, CA
         start_date: 2023-06
         highlights:
           - "Conducting interdisciplinary research with Children's Hospital Los Angeles to analyze mother-infant behavioral synchrony and its associations with developmental and physiological health outcomes."
@@ -98,6 +101,7 @@ cv:
       
       - company: "University of Southern California"
         position: "Teaching Assistant"
+        location: Los Angeles, CA
         start_date: 2026-01
         end_date: 2026-05
         highlights: 
@@ -105,6 +109,7 @@ cv:
       
       - company: "Rochester Institute of Technology"
         position: "Undergraduate Researcher"
+        location: Rochester, NY
         start_date: 2022-05
         end_date: 2022-07
         highlights:
@@ -115,6 +120,7 @@ cv:
       
       - company: "National Institute of Standards and Technology"
         position: "Associate Research Fellow"
+        location: Virtual
         start_date: 2021-05
         end_date: 2021-08
         highlights:
@@ -125,6 +131,7 @@ cv:
       
       - company: "Macalester College"
         position: "Teaching Assistant"
+        location: St Paul, MN
         start_date: 2020-09
         end_date: 2023-05
         highlights:
@@ -133,6 +140,7 @@ cv:
       
       - company: "Civilytics Consulting LLC"
         position: "Contractor"
+        location: Virtual
         start_date: 2020-07
         end_date: 2021-06
         highlights:
@@ -146,8 +154,16 @@ cv:
       - bullet: "**K-12 Students:** Nina Smith, Naman Rathi, Natalia Colin, Joan Delgadillo"
       
     Volunteer:
+      - company: Los Angeles Schools
+        position: Research Mentor
+        location: Los Angeles, CA
+        start date: 2024-05
+        highlights:
+          - Taught fundamental research skills to students at schools around Los Angeles.
+    
       - company: "Kory Hunter Middle School Vex Robotics"
         position: "Coach"
+        location: Los Angeles, CA
         start_date: 2023-11
         end_date: 2024-03
         highlights:
@@ -155,6 +171,7 @@ cv:
       
       - company: "Flipside Coding Club"
         position: "Teacher"
+        location: St Paul, MN
         start_date: 2023-01
         end_date: 2023-05
         highlights:
@@ -163,6 +180,7 @@ cv:
       
       - company: "Breakthrough Twin Cities"
         position: "Coach"
+        location: St Paul, MN
         start_date: 2020-10
         end_date: 2021-05
         highlights:
@@ -170,6 +188,7 @@ cv:
       
       - company: "Twin Cities Reading Partners"
         position: "Instructor"
+        location: St Paul, MN
         start_date: 2019-10
         end_date: 2020-03
         highlights:
@@ -177,6 +196,7 @@ cv:
       
       - company: "Kidz Klub"
         position: "Afterschool Caregiver"
+        location: Wisconsin Dells, WI
         start_date: 2017-09
         end_date: 2019-05
         highlights:
@@ -184,6 +204,7 @@ cv:
       
       - company: "Spring Hill Elementary"
         position: "Assistant Music Teacher"
+        location: Wisconsin Dells, WI
         start_date: 2016-09
         end_date: 2019-05
         highlights:
