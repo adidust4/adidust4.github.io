@@ -114,6 +114,12 @@ cv:
           - "Created an original method called Measured Alteration of Generalized Procedural Generation for Robot Agility."
           - "Developed a Unity virtual prototype to simulate the alteration in a realistic manufacturing environment."
     teaching_and_industry_experience:
+      - company: "University of Southern California"
+        position: "Teaching Assistant"
+        start_date: "2026-01"
+        end_date: "2026-05"
+        highlights: 
+          - "Assisted in DSCI 454: Data Visualization and User Interface Design"
       - company: "Macalester College"
         position: "Teaching Assistant"
         start_date: "2020-09"
