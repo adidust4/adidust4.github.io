@@ -16,98 +16,107 @@ cv:
     Education:
       - institution: "University of Southern California"
         area: "Computer Science"
-        degree: "PhD"
-        start_date: "2023-06"
-        end_date: "present"
+        studyType: "PhD"
+        start_date: 2023
         highlights:
           - "Advisor: Prof. Maja Matarić"
           - "Collaborating Advisor: Prof. Pat Levitt"
+          
       - institution: "Macalester College"
         area: "Computer Science"
-        degree: "BA"
-        start_date: "2019-08"
-        end_date: "2023-05"
+        studyType: "BA"
+        start_date: 2019
+        end_date: 2023
         highlights:
           - "Honors and Distinction"
           - "Konhauser Achievement Award in Computer Science"
           - "Honors thesis: Using the Social Model of Disability Studies as a Framework to Assess Deaf-Centered Technology"
           - "Minors in Sociology and Statistics"
           - "Advisors: Prof. Abby Marsh and Prof. Joslenne Peña"
+          
     Publications:
-      - title: "Advanced Analysis of Behavioral Synchrony and Parasympathetic Response in Mother-Infant Play"
-        authors:
-          - "*A'di Dust*"
-          - "Sarah Panvini"
-          - "Maja J. Matarić"
-          - "Pat Levitt"
-        journal: "Oral presentation at the 2025 Annual Meeting of the International Society of Developmental Psychobiology"
-        date: "2025"
       - title: "Offspring Genetic Diversity Regulates Rearing Experiences that Predict Differential Susceptibility to Chd8 Haploinsufficiency"
         authors:
           - "Manal Tabbaa"
           - "Alexis Gamez"
-          - "*A'di Dust*"
+          - "A'di Dust"
           - "Maja Matarić"
           - "Pat Levitt"
-        date: "2026"
-        journal: "Communications Biology"
+        date: 2026-05
+        publisher: "Communications Biology"
+        
+      - title: "Advanced Analysis of Behavioral Synchrony and Parasympathetic Response in Mother-Infant Play"
+        authors:
+          - "A'di Dust"
+          - "Sarah Panvini"
+          - "Maja J. Matarić"
+          - "Pat Levitt"
+        publisher: "Oral presentation at the 2025 Annual Meeting of the International Society of Developmental Psychobiology"
+        date: 2025-11
+      
       - title: "Behind the Smile: Mental Health Implications of Mother-Infant Interactions Revealed Through Smile Analysis"
         authors:
-          - "*A'di Dust*"
+          - "A'di Dust"
           - "Pat Levitt"
           - "Maja J. Matarić"
-        journal: "12th International Conference on Affective Computing and Intelligent Interaction (ACII '24)"
-        date: "2024-09"
+        publisher: "12th International Conference on Affective Computing and Intelligent Interaction (ACII '24)"
+        date: 2024-09
+        
       - title: "Understanding Differences in Human-Robot Teaming Dynamics between Deaf/Hard of Hearing and Hearing Individuals"
         authors:
-          - "*A'di Dust*"
+          - "A'di Dust"
           - "Carola Gonzalez-Lebron"
           - "Shannon Connell"
           - "Saurav Singh"
           - "Reynold Bailey"
           - "Cecilia Ovesdotter Alm"
           - "Jamison Heard"
-        journal: "Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (Companion-HRI '23)"
-        date: "2023-03"
+        publisher: "Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (Companion-HRI '23)"
+        date: 2023-03
+        
       - title: "Hearing in Cobot Environments: The Effects on Deaf Workers in a Manufacturing Setting"
         authors:
-          - "*A'di Dust*"
-        journal: "RIT Undergraduate Research Symposium (Poster Presentation)"
-        date: "2022-07"
+          - "A'di Dust"
+        publisher: "RIT Undergraduate Research Symposium (Poster Presentation)"
+        date: 2022-07
+        
       - title: "Measured Alteration of Generalized Procedural Generation for Robot Agility"
         authors:
-          - "*A'di Dust*"
-        journal: "NIST Summer Undergraduate Research Fellowship Colloquium (Oral Presentation)"
-        date: "2021-08"
+          - "A'di Dust"
+        publisher: "NIST Summer Undergraduate Research Fellowship Colloquium (Oral Presentation)"
+        date: 2021-08
+        
     Experience:
       - company: "University of Southern California Interaction Lab"
         position: "PhD Candidate"
-        start_date: "2023-06"
-        end_date: "present"
+        start_date: 2023-06
         highlights:
           - "Conducting interdisciplinary research with Children's Hospital Los Angeles to analyze mother-infant behavioral synchrony and its associations with developmental and physiological health outcomes."
           - "Applying computational modeling, signal analysis, and human-robot interaction methods to study early-life behavioral markers."
           - "Developing a social emotional learning robotic platform for early childhood support, integrating sensing, behavior modeling, and adaptive interaction algorithms."
           - "Contributed to an NSF Convergence Accelerator project focused on enhancing social support for individuals with physical disabilities."
+      
       - company: "University of Southern California"
         position: "Teaching Assistant"
-        start_date: "2026-01"
-        end_date: "2026-05"
+        start_date: 2026-01
+        end_date: 2026-05
         highlights: 
           - "Assisted in DSCI 454: Data Visualization and User Interface Design"
+      
       - company: "Rochester Institute of Technology"
         position: "Undergraduate Researcher"
-        start_date: "2022-05"
-        end_date: "2022-07"
+        start_date: 2022-05
+        end_date: 2022-07
         highlights:
           - "Selected for the NSF-funded Computational Sensing for Human-centered AI program."
           - "Conducted human subjects research on Deaf and Hard-of-Hearing individuals in relation to manufacturing cobots to understand differences in teaming dynamics."
           - "Programmed the Baxter cobot and performed detailed data analysis of human subject trials."
           - "Utilized computational sensing tools including Pupil Core eyeglasses and Zephyr bioharness."
+      
       - company: "National Institute of Standards and Technology"
         position: "Associate Research Fellow"
-        start_date: "2021-05"
-        end_date: "2021-08"
+        start_date: 2021-05
+        end_date: 2021-08
         highlights:
           - "Selected for the NIST Summer Undergraduate Research Fellowship (SURF) Engineering Laboratory."
           - "Researched generalizing procedural generation of 3D environments for reinforcement learning simulations in robot safety."
@@ -116,61 +125,70 @@ cv:
       
       - company: "Macalester College"
         position: "Teaching Assistant"
-        start_date: "2020-09"
-        end_date: "2023-05"
+        start_date: 2020-09
+        end_date: 2023-05
         highlights:
           - "Assisted in COMP 127: Object Oriented Programming and Abstraction (Fall 2020)."
           - "Assisted in COMP 240: Computer Systems Organization for five semesters (Spring 2021 – Spring 2023)."
+      
       - company: "Civilytics Consulting LLC"
         position: "Contractor"
-        start_date: "2020-07"
-        end_date: "2021-06"
+        start_date: 2020-07
+        end_date: 2021-06
         highlights:
           - "Created content and managed social media for data science projects in higher education, criminal justice, and public finance."
           - "Collected and cleaned data from city government budgeting documents and campus policing records."
           - "Formatted the Education Data Done Right II book using R Bookdown."
+          
     Mentoring:
       - bullet: "**Master's Students:** Praise Olukilede, Zoey Zhou, Jiahang Zhang"
       - bullet: "**Undergraduate Students:** Anura Deshpande, Cindy Zhou, Evelyn Gonzalez, Soumya Singh, Kyla Penamante, Parini Gandhi, Elisa Torres, Amanda Lu, Dylan Gatua, Vincent Wong"
       - bullet: "**K-12 Students:** Nina Smith, Naman Rathi, Natalia Colin, Joan Delgadillo"
+      
     Volunteer:
       - company: "Kory Hunter Middle School Vex Robotics"
         position: "Coach"
-        start_date: "2023-11"
-        end_date: "2024-03"
+        start_date: 2023-11
+        end_date: 2024-03
         highlights:
           - "Taught fundamentals of designing hardware and software for Vex Robotics competition."
+      
       - company: "Flipside Coding Club"
         position: "Teacher"
-        start_date: "2023-01"
-        end_date: "2023-05"
+        start_date: 2023-01
+        end_date: 2023-05
         highlights:
           - "Taught Python, HTML, JavaScript, and CSS to students from 4th to 7th grade."
           - "Focused on disability and accessibility considerations in software development."
+      
       - company: "Breakthrough Twin Cities"
         position: "Coach"
-        start_date: "2020-10"
-        end_date: "2021-05"
+        start_date: 2020-10
+        end_date: 2021-05
         highlights:
           - "Mentored 15 disadvantaged 7th grade students through monthly meetings and weekly check-ins."
+      
       - company: "Twin Cities Reading Partners"
         position: "Instructor"
-        start_date: "2019-10"
-        end_date: "2020-03"
+        start_date: 2019-10
+        end_date: 2020-03
         highlights:
           - "Created custom lesson plans and mentored a low-literacy middle school student."
+      
       - company: "Kidz Klub"
         position: "Afterschool Caregiver"
-        start_date: "2017-09"
-        end_date: "2019-05"
+        start_date: 2017-09
+        end_date: 2019-05
         highlights:
           - "Facilitated educational activities and homework support for elementary students from disadvantaged backgrounds."
+      
       - company: "Spring Hill Elementary"
         position: "Assistant Music Teacher"
-        start_date: "2016-09"
-        end_date: "2019-05"
+        start_date: 2016-09
+        end_date: 2019-05
         highlights:
           - "Assisted kindergarten through second-grade music teachers with classroom instruction."
+   
     Skills:
       - name: "Languages"
         keywords: "Python, R, Java, C, C#, JavaScript, Swift, LaTeX"
