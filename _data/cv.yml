@@ -85,9 +85,9 @@ cv:
           - "*A'di Dust*"
         journal: "NIST Summer Undergraduate Research Fellowship Colloquium (Oral Presentation)"
         date: "2021-08"
-    Research Experiences:
+    Experience:
       - company: "University of Southern California Interaction Lab"
-        position: "Ph.D. Student"
+        position: "PhD Candidate"
         start_date: "2023-06"
         end_date: "present"
         highlights:
@@ -95,6 +95,12 @@ cv:
           - "Applying computational modeling, signal analysis, and human-robot interaction methods to study early-life behavioral markers."
           - "Developing a social emotional learning robotic platform for early childhood support, integrating sensing, behavior modeling, and adaptive interaction algorithms."
           - "Contributed to an NSF Convergence Accelerator project focused on enhancing social support for individuals with physical disabilities."
+      - company: "University of Southern California"
+        position: "Teaching Assistant"
+        start_date: "2026-01"
+        end_date: "2026-05"
+        highlights: 
+          - "Assisted in DSCI 454: Data Visualization and User Interface Design"
       - company: "Rochester Institute of Technology"
         position: "Undergraduate Researcher"
         start_date: "2022-05"
@@ -113,13 +119,7 @@ cv:
           - "Researched generalizing procedural generation of 3D environments for reinforcement learning simulations in robot safety."
           - "Created an original method called Measured Alteration of Generalized Procedural Generation for Robot Agility."
           - "Developed a Unity virtual prototype to simulate the alteration in a realistic manufacturing environment."
-    Teaching and Industry Experience:
-      - company: "University of Southern California"
-        position: "Teaching Assistant"
-        start_date: "2026-01"
-        end_date: "2026-05"
-        highlights: 
-          - "Assisted in DSCI 454: Data Visualization and User Interface Design"
+      
       - company: "Macalester College"
         position: "Teaching Assistant"
         start_date: "2020-09"
@@ -139,7 +139,7 @@ cv:
       - bullet: "**Master's Students:** Praise Olukilede, Zoey Zhou, Jiahang Zhang"
       - bullet: "**Undergraduate Students:** Anura Deshpande, Cindy Zhou, Evelyn Gonzalez, Soumya Singh, Kyla Penamante, Parini Gandhi, Elisa Torres, Amanda Lu, Dylan Gatua, Vincent Wong"
       - bullet: "**K-12 Students:** Nina Smith, Naman Rathi, Natalia Colin, Joan Delgadillo"
-    Service:
+    Volunteer:
       - company: "Kory Hunter Middle School Vex Robotics"
         position: "Coach"
         start_date: "2023-11"
