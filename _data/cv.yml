@@ -13,7 +13,7 @@ cv:
       username: adi-dust
 
   sections:
-    education:
+    Education:
       - institution: "University of Southern California"
         area: "Computer Science"
         degree: "PhD"
@@ -33,7 +33,7 @@ cv:
           - "Honors thesis: Using the Social Model of Disability Studies as a Framework to Assess Deaf-Centered Technology"
           - "Minors in Sociology and Statistics"
           - "Advisors: Prof. Abby Marsh and Prof. Joslenne Peña"
-    publications:
+    Publications:
       - title: "Signals in Play: Maternal Emotional State Modeled Using Conversational Dynamics and Affective Prosody"
         authors:
           - "*A'di Dust*"
@@ -85,7 +85,7 @@ cv:
           - "*A'di Dust*"
         journal: "NIST Summer Undergraduate Research Fellowship Colloquium (Oral Presentation)"
         date: "2021-08"
-    research_experience:
+    Research Experiences:
       - company: "University of Southern California Interaction Lab"
         position: "Ph.D. Student"
         start_date: "2023-06"
@@ -113,7 +113,7 @@ cv:
           - "Researched generalizing procedural generation of 3D environments for reinforcement learning simulations in robot safety."
           - "Created an original method called Measured Alteration of Generalized Procedural Generation for Robot Agility."
           - "Developed a Unity virtual prototype to simulate the alteration in a realistic manufacturing environment."
-    teaching_and_industry_experience:
+    Teaching and Industry Experience:
       - company: "University of Southern California"
         position: "Teaching Assistant"
         start_date: "2026-01"
@@ -135,11 +135,11 @@ cv:
           - "Created content and managed social media for data science projects in higher education, criminal justice, and public finance."
           - "Collected and cleaned data from city government budgeting documents and campus policing records."
           - "Formatted the Education Data Done Right II book using R Bookdown."
-    mentoring:
+    Mentoring:
       - bullet: "**Master's Students:** Praise Olukilede, Zoey Zhou, Jiahang Zhang"
       - bullet: "**Undergraduate Students:** Anura Deshpande, Cindy Zhou, Evelyn Gonzalez, Soumya Singh, Kyla Penamante, Parini Gandhi, Elisa Torres, Amanda Lu, Dylan Gatua, Vincent Wong"
       - bullet: "**K-12 Students:** Nina Smith, Naman Rathi, Natalia Colin, Joan Delgadillo"
-    service:
+    Service:
       - company: "Kory Hunter Middle School Vex Robotics"
         position: "Coach"
         start_date: "2023-11"
@@ -177,7 +177,7 @@ cv:
         end_date: "2019-05"
         highlights:
           - "Assisted kindergarten through second-grade music teachers with classroom instruction."
-    skills:
+    Skills:
       - label: "Languages"
         details: "Python, R, Java, C, C#, JavaScript, Swift, LaTeX"
       - label: "Frameworks & Libraries"
