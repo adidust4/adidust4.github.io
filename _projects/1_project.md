@@ -23,6 +23,7 @@ The Children’s Hospital of Los Angeles’ (CHLA) Levitt Lab conducts a ‘Fami
 <div class="caption">
     On the left, the setup of mother-infant freeplay interactions are shown for when the children are 6- and 12-months of age. Right, the freeplay setup for 24+ month old infants.
 </div>
-```
 
-{% endraw %}
+***
+
+Interaction Lab Project Page: [https://uscinteractionlab.web.app/project/mother_infant](https://uscinteractionlab.web.app/project/mother_infant)
