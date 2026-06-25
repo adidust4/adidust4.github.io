@@ -2,7 +2,7 @@
 layout: page
 title: Measuring the Impact Mother-Infant Dyadic Interactions on Mother and Infant Outcomes
 description: 
-img: assets/img/12.jpg
+img: assets/img/mom_baby_drawing.jpg
 importance: 1
 category: work
 related_publications: 10970334
