@@ -5,7 +5,7 @@ description:
 img: assets/img/support group.png
 importance: 2
 category: work
-giscus_comments: true
+related_publications: true
 ---
 
 This project aims to develop and evaluate a socially assistive robot facilitator for support group interactions. The work combines observational studies of robot-facilitated support group interactions, automated analysis of group interaction dynamics, and the development of autonomous facilitation strategies. Current efforts include using foundation models to understand user backchannels, creating generative agents for modeling group interactions, and exploring reinforcement learning approaches to optimize facilitator behavior and evaluate the effectiveness of robot-led support group facilitation.
