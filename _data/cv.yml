@@ -1,10 +1,10 @@
 cv:
   name: A'di Dust
   label: PhD Candidate
-  email: dust@usc.edu
+  email: dust (at) usc.edu
   location: Los Angeles, CA
   image: ""
-  summary: 
+  summary: I am a PhD candidate in Computer Science at the University of Southern California. I work with Maja Matarić in the Interaction Lab and Pat Levitt in the Children’s Hospital of Los Angeles’ Developmental Neuroscience Levitt Lab. My research focuses on the use of machine learning and statistics to understand child development, specifically the impacts of mother-child interaction on child development.
 
   social_networks:
     - network: GitHub
@@ -12,169 +12,173 @@ cv:
     - network: LinkedIn
       username: adi-dust
 
-
-  # address:
-  #   street: 2712 Broadway St
-  #   city: San Francisco
-  #   region: California
-  #   postalCode: CA 94115
-  #   countryCode: US
-
   sections:
-    Education:
-      - institution: University of Southern California
-        location: Los Angeles, CA
-        url: usc.edu
-        area: Computer Science
-        studyType: PhD
-        start_date: 2023
-        end_date: present
-
-      - institution: Macalester College
-        location: St. Paul, MN
-        area: Computer Science, Statistics, and Sociology
-        studyType: BA
-        start_date: 2019
-        end_date: 2023
-
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+    education:
+      - institution: "University of Southern California"
+        area: "Computer Science"
+        degree: "PhD"
+        start_date: "2023-06"
+        end_date: "present"
         highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+          - "Advisor: Prof. Maja Matarić"
+          - "Collaborating Advisor: Prof. Pat Levitt"
+      - institution: "Macalester College"
+        area: "Computer Science"
+        degree: "BA"
+        start_date: "2019-08"
+        end_date: "2023-05"
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+          - "Honors and Distinction"
+          - "Konhauser Achievement Award in Computer Science"
+          - "Honors thesis: Using the Social Model of Disability Studies as a Framework to Assess Deaf-Centered Technology"
+          - "Minors in Sociology and Statistics"
+          - "Advisors: Prof. Abby Marsh and Prof. Joslenne Peña"
+    publications:
+      - title: "Signals in Play: Maternal Emotional State Modeled Using Conversational Dynamics and Affective Prosody"
+        authors:
+          - "*A'di Dust*"
+          - "Anura Deshpande"
+          - "Maja J. Matarić"
+          - "Pat Levitt"
+        journal: "Under review"
+      - title: "Advanced Analysis of Behavioral Synchrony and Parasympathetic Response in Mother-Infant Play"
+        authors:
+          - "*A'di Dust*"
+          - "Sarah Panvini"
+          - "Maja J. Matarić"
+          - "Pat Levitt"
+        journal: "Oral presentation at the 2025 Annual Meeting of the International Society of Developmental Psychobiology"
+        date: "2025"
+      - title: "Offspring Genetic Diversity Regulates Rearing Experiences that Predict Differential Susceptibility to Chd8 Haploinsufficiency"
+        authors:
+          - "Manal Tabbaa"
+          - "Alexis Gamez"
+          - "*A'di Dust*"
+          - "Maja Matarić"
+          - "Pat Levitt"
+        journal: "Communications Biology (In press)"
+      - title: "Behind the Smile: Mental Health Implications of Mother-Infant Interactions Revealed Through Smile Analysis"
+        authors:
+          - "*A'di Dust*"
+          - "Pat Levitt"
+          - "Maja J. Matarić"
+        journal: "12th International Conference on Affective Computing and Intelligent Interaction (ACII '24)"
+        date: "2024-09"
+      - title: "Understanding Differences in Human-Robot Teaming Dynamics between Deaf/Hard of Hearing and Hearing Individuals"
+        authors:
+          - "*A'di Dust*"
+          - "Carola Gonzalez-Lebron"
+          - "Shannon Connell"
+          - "Saurav Singh"
+          - "Reynold Bailey"
+          - "Cecilia Ovesdotter Alm"
+          - "Jamison Heard"
+        journal: "Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (Companion-HRI '23)"
+        date: "2023-03"
+      - title: "Hearing in Cobot Environments: The Effects on Deaf Workers in a Manufacturing Setting"
+        authors:
+          - "*A'di Dust*"
+        journal: "RIT Undergraduate Research Symposium (Poster Presentation)"
+        date: "2022-07"
+      - title: "Measured Alteration of Generalized Procedural Generation for Robot Agility"
+        authors:
+          - "*A'di Dust*"
+        journal: "NIST Summer Undergraduate Research Fellowship Colloquium (Oral Presentation)"
+        date: "2021-08"
+    research_experience:
+      - company: "University of Southern California Interaction Lab"
+        position: "Ph.D. Student"
+        start_date: "2023-06"
+        end_date: "present"
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+          - "Conducting interdisciplinary research with Children's Hospital Los Angeles to analyze mother-infant behavioral synchrony and its associations with developmental and physiological health outcomes."
+          - "Applying computational modeling, signal analysis, and human-robot interaction methods to study early-life behavioral markers."
+          - "Developing a social emotional learning robotic platform for early childhood support, integrating sensing, behavior modeling, and adaptive interaction algorithms."
+          - "Contributed to an NSF Convergence Accelerator project focused on enhancing social support for individuals with physical disabilities."
+      - company: "Rochester Institute of Technology"
+        position: "Undergraduate Researcher"
+        start_date: "2022-05"
+        end_date: "2022-07"
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+          - "Selected for the NSF-funded Computational Sensing for Human-centered AI program."
+          - "Conducted human subjects research on Deaf and Hard-of-Hearing individuals in relation to manufacturing cobots to understand differences in teaming dynamics."
+          - "Programmed the Baxter cobot and performed detailed data analysis of human subject trials."
+          - "Utilized computational sensing tools including Pupil Core eyeglasses and Zephyr bioharness."
+      - company: "National Institute of Standards and Technology"
+        position: "Associate Research Fellow"
+        start_date: "2021-05"
+        end_date: "2021-08"
+        highlights:
+          - "Selected for the NIST Summer Undergraduate Research Fellowship (SURF) Engineering Laboratory."
+          - "Researched generalizing procedural generation of 3D environments for reinforcement learning simulations in robot safety."
+          - "Created an original method called Measured Alteration of Generalized Procedural Generation for Robot Agility."
+          - "Developed a Unity virtual prototype to simulate the alteration in a realistic manufacturing environment."
+    teaching_and_industry_experience:
+      - company: "Macalester College"
+        position: "Teaching Assistant"
+        start_date: "2020-09"
+        end_date: "2023-05"
+        highlights:
+          - "Assisted in COMP 127: Object Oriented Programming and Abstraction (Fall 2020)."
+          - "Assisted in COMP 240: Computer Systems Organization for five semesters (Spring 2021 – Spring 2023)."
+      - company: "Civilytics Consulting LLC"
+        position: "Contractor"
+        start_date: "2020-07"
+        end_date: "2021-06"
+        highlights:
+          - "Created content and managed social media for data science projects in higher education, criminal justice, and public finance."
+          - "Collected and cleaned data from city government budgeting documents and campus policing records."
+          - "Formatted the Education Data Done Right II book using R Bookdown."
+    mentoring:
+      - bullet: "**Master's Students:** Praise Olukilede, Zoey Zhou, Jiahang Zhang"
+      - bullet: "**Undergraduate Students:** Anura Deshpande, Cindy Zhou, Evelyn Gonzalez, Soumya Singh, Kyla Penamante, Parini Gandhi, Elisa Torres, Amanda Lu, Dylan Gatua, Vincent Wong"
+      - bullet: "**K-12 Students:** Nina Smith, Naman Rathi, Natalia Colin, Joan Delgadillo"
+    service:
+      - company: "Kory Hunter Middle School Vex Robotics"
+        position: "Coach"
+        start_date: "2023-11"
+        end_date: "2024-03"
+        highlights:
+          - "Taught fundamentals of designing hardware and software for Vex Robotics competition."
+      - company: "Flipside Coding Club"
+        position: "Teacher"
+        start_date: "2023-01"
+        end_date: "2023-05"
+        highlights:
+          - "Taught Python, HTML, JavaScript, and CSS to students from 4th to 7th grade."
+          - "Focused on disability and accessibility considerations in software development."
+      - company: "Breakthrough Twin Cities"
+        position: "Coach"
+        start_date: "2020-10"
+        end_date: "2021-05"
+        highlights:
+          - "Mentored 15 disadvantaged 7th grade students through monthly meetings and weekly check-ins."
+      - company: "Twin Cities Reading Partners"
+        position: "Instructor"
+        start_date: "2019-10"
+        end_date: "2020-03"
+        highlights:
+          - "Created custom lesson plans and mentored a low-literacy middle school student."
+      - company: "Kidz Klub"
+        position: "Afterschool Caregiver"
+        start_date: "2017-09"
+        end_date: "2019-05"
+        highlights:
+          - "Facilitated educational activities and homework support for elementary students from disadvantaged backgrounds."
+      - company: "Spring Hill Elementary"
+        position: "Assistant Music Teacher"
+        start_date: "2016-09"
+        end_date: "2019-05"
+        highlights:
+          - "Assisted kindergarten through second-grade music teachers with classroom instruction."
+    skills:
+      - label: "Languages"
+        details: "Python, R, Java, C, C#, JavaScript, Swift, LaTeX"
+      - label: "Frameworks & Libraries"
+        details: "scikit-learn, pandas, NumPy, PyTorch, OpenCV, DEAP, SPSS, ggplot2, Altair, D3.js"
+      - label: "Tools & Systems"
+        details: "ROS, Linux, Unity, Firebase, Firestore, R Bookdown"
+      - label: "Research & Analytics"
+        details: "Machine learning, Data visualization, Physiological and behavioral data acquisition, Human-subjects research design, Affective computing, Robot learning"
+      - label: "Certifications"
+        details: "CITI Human Subjects Research, CITI Responsible Conduct of Research, HIPAA Compliance"
